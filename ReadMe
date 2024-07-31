@@ -1,0 +1,6 @@
+API Used: OpenStreetMap and OverPass API
+
+This Project Will get Your Location and then if you type any kind of shops (Motorcycle, Bakery, Coffee, Shoes etc) it will mark the location in the map and then shows the data in the table form below including the Name and the Distance from your location in a 50 Km Radius
+
+Requirements: Internet Connection and Allow your location to be track to Show Locations
+
