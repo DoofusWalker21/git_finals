@@ -1,6 +1,15 @@
-API Used: OpenStreetMap and OverPass API
+API: OpenStreetMap and OverPass API
+Frontend: HTML, CSS, Bootstrap
+Backend: JavaScript
+
+User Story:
 
 This Project Will get Your Location and then if you type any kind of shops (Motorcycle, Bakery, Coffee, Shoes etc) it will mark the location in the map and then shows the data in the table form below including the Name and the Distance from your location in a 50 Km Radius
 
-Requirements: Internet Connection and Allow your location to be track to Show Locations
-
+Steps: 
+1. Download the Zip File
+2. Extract
+3. Run the Html File (You can use the Live Preview Extension in VS Code to run the file)
+4. Type Shops (Motorcycle, Bakery, Coffee, Shoes etc)
+5. Click Find Shop 
+6. Allow the your location to show the shop's location
